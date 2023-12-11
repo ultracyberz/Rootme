@@ -13,6 +13,6 @@
   git clone https://github.com/ultracyberz/Rootme<br>
   cd Rootme<br>
   chmod +x setup.sh <br>
-  ./setup<br>
+  ./setup.sh<br>
 </body>
 </html>
