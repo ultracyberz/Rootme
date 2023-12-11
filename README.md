@@ -11,7 +11,7 @@
   pkg update<br>
   pkg upgrade<br>
   git clone https://github.com/ultracyberz/Rootme<br>
-  cd RootMe<br
+  cd Rootme<br
   chmod +x setup.sh<br>
   ./setup<br>
 </body>
