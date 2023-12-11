@@ -4,12 +4,12 @@
   </head>
 <body>
 <h1>You Can Use This Tool To root Your Termux Easy.</h1>
-<a href="https://www.youtube.com/@CyberGash"><button id="root">Subscribe</button></a> My YouTube Channel For More Additional Knowledges!
-  pkg update
-  pkg upgrade
-  git clone https://github.com/ultracyberz/Rootme
-  cd RootMe
-  chmod +x setup.sh
-  ./setup
+<a href="https://www.youtube.com/@CyberGash"><button id="root">Subscribe</button></a> My YouTube Channel For More Additional Knowledges!<br>
+  pkg update<br>
+  pkg upgrade<br>
+  git clone https://github.com/ultracyberz/Rootme<br>
+  cd RootMe<br
+  chmod +x setup.sh<br>
+  ./setup<br>
 </body>
 </html>
