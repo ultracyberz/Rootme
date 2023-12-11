@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      #root{
-        background-color:red;
-        color:white;
-        border-radius:50px;
-        height:40px;
-        width:50%;
-    </style>
   </head>
 <body>
-<h1>you can use this app to root your termux easy.</h1>
-<a href="https://www.youtube.com/@CyberGash"><button id="root">Subscribe</button></a> my YouTube channel for more additional knowledges
+<h1>You Can Use This Tool To root Your Termux Easy.</h1>
+<a href="https://www.youtube.com/@CyberGash"><button id="root">Subscribe</button></a> My YouTube Channel For More Additional Knowledges!
+  pkg update
+  pkg upgrade
+  git clone https://github.com/ultracyberz/Rootme
+  cd RootMe
+  chmod +x setup.sh
+  ./setup
 </body>
 </html>
